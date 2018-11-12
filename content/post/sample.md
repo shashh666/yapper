@@ -2,6 +2,8 @@
 title: "Sample"
 date: 2018-11-12T15:48:16+08:00
 draft: true
+#featuredImage: "/img/break.png" - this is how you use a cover image
+author: "theYapper"
 ---
 
 This is a sample post to act as a reference for syntax. 

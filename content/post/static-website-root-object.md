@@ -1,7 +1,9 @@
 ---
-title: "Static Website Root Object"
+title: "S3 Static Web Hosting Root Object"
 date: 2018-11-12T15:35:05+08:00
+featuredImage: "/img/break.png"
 author: "theYapper"
+#tags: ["aws", "s3", "troubleshooting"]
 ---
 
 ## The Effect
