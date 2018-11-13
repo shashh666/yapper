@@ -28,10 +28,10 @@ This happens if you choose the CloudFront origin from the list of S3 buckets pre
 
 ## The Solution
 
-This solution here is to make CloudFront treat the S3 files as a static site. This can be done by grabbing the S3 static web hosting endpoint url and using the endpoint as the CloudFront origin. 
+This solution here is to make CloudFront treat the S3 files as part of a static site. This can be done by grabbing the S3 static web hosting endpoint url and using the endpoint as the CloudFront origin. 
 
 ![s3-endpoint](/img/s3-endpoint.png)
 
-Once you have taken care of the origin, CloudFront will internally treat the S3 files as a static web hosting files and look for the root file in a sub-directory to display its contents. 
+Once you have taken care of the origin, CloudFront will internally treat the S3 files as static web hosting files and look for the root file in a sub-directory to display its contents. 
 
 Happy hosting! 
