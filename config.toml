@@ -14,12 +14,13 @@ theme = "hugo-theme-minos"
     identifier = "tags"
     url = "/tags/"
 
-[[menu.main]]
-    name = "CATEGORIES"
-    pre = "<i class='fa fa-folder-open'></i>"
-    weight = -100
-    identifier = "categories"
-    url = "/categories/"
+#[[menu.main]]
+#    name = "CATEGORIES"
+#   pre = "<i class='fa fa-folder-open'></i>"
+#   weight = -100
+#   identifier = "categories"
+#   url = "/categories/"
+
 
 [[menu.main]]
     name = "ABOUT ME"
