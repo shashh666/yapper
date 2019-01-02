@@ -1,7 +1,6 @@
 ---
 title: "Forwarding Windows logs using NXLog"
 date: 2019-01-02T11:05:02+08:00
-draft: true
 featuredImage: ""
 author: "theYapper"
 tags: ["logs", "nxlog", "syslogs"]
