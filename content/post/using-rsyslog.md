@@ -3,7 +3,7 @@ title: "Log Forwarding with Rsyslog"
 date: 2018-12-29T17:48:39+08:00
 featuredImage: "/img/logs.jpg"
 author: "theYapper"
-tags: ["aws", "rsyslog"]
+tags: ["aws", "rsyslog", "logs", "syslogs"]
 
 ---
 
